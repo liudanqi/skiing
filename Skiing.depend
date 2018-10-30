@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1540165823 source:c:\users\liu\desktop\skiing\main.cpp
+	<iostream>
+	"skiing.h"
+
+1540165372 c:\users\liu\desktop\skiing\include\skiing.h
+
+1540165791 source:c:\users\liu\desktop\skiing\src\skiing.cpp
+	"skiing.h"
+	<iostream>
+	<queue>
+
